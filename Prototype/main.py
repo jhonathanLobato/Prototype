@@ -4,7 +4,6 @@ from concreteSummonerElf import SummonerElf
 from concretePaladin import Paladin
 from concreteMage import Mage
 
-i = 1
 
 #CRIANDO CADA PALADINO(OBJETO) UM A UM SEM USAR O PROTOTYPE
 #print("Começando a criar um paladino em: ", datetime.datetime.now().time())
